@@ -4,7 +4,7 @@ slug: functions-playground
 ---
 
 > [info]
-> **This Playground (and the recursion playground) is a bit unstable on some computers. We are in the process of updating it so it is stable on _all_ computers!**
+> **This Playground (and the recursion playground) is a bit unstable on some computers. If it does not work on yours, please stop and use the next tutorial (no playground version)!**
 
 Now that we've learned _variables_, let's move on to _functions_. In this _Swift Playground_, you will learn how to group code into reusable blocks called _functions_. This will allow you to organize your code to be highly reusable. You'll learn how to call to call functions, pass data into them and return data from them. Throughout this playground you will create some pretty cool art! Get ready to be creative :)
 
