@@ -10,7 +10,7 @@ _variables(変数)_ を学んだので、次は _functions(関数)_ を学びま
 
 > [action]
 >
-1. [ここ]()からPlaygroundをダウンロードします。
+1. [ここ](https://github.com/MakeSchool-Tutorials/Intro-Functions-Swift-Playground/archive/swift4-japanese.zip)からPlaygroundをダウンロードします。
 1. zipファイルをダブルクリックして、解凍します。
 1. `Functions.playground`というファイルが見つかるはずです。"Make School Projects"フォルダーに移しましょう。
 1. `Functions.playground`をダブルクリックして開きましょう！
